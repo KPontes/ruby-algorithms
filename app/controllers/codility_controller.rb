@@ -1,0 +1,2 @@
+class CodilityController < ApplicationController
+end
